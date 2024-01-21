@@ -34,6 +34,7 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 | [**🔥 Feishu-OpenAI**][feishu-openai-github]<br/> 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档伴侣 🚀<br/><br/>[![][feishu-openai-shield]][feishu-openai-github]                      | [![][feishu-openai-cover]][feishu-openai-github]     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
 | [**Botops**][botops-github]<br/> 📦 A command line tool that makes chatbot deployment easy, supporting Feishu, DingTalk, Discord, Github and Slack.<br/><br/>[![][botops-shield]][botops-npm]                      | [![][botops-cover]][botops-github]     |
+| [**GitMaya**][gitmaya-github]<br/> 🌊 One repo = one chat, make git flow in chat, next generation gitops for boosting developer-teams productivity, Supports feishu, discord and slack.<br/><br/>[![][gitmaya-shield]][gitmaya-github]                    | [![][gitmaya-cover]][gitmaya-github]     |
 
 
 
@@ -71,6 +72,9 @@ We're a bunch of ChatBot enthusiasts in the AI rodeo, boasting the fanciest bot 
 [botops-cover]: https://github.com/ConnectAI-E/.github/assets/50035229/f7b28776-269e-4dd1-9eca-b728a996b39a
 [botops-shield]: https://img.shields.io/npm/dt/botops?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [botops-npm]: https://www.npmjs.com/package/botops
+[gitmaya-cover]: https://github.com/ConnectAI-E/.github/assets/50035229/d2466ec0-48a1-4800-b389-e777a0dc2512
+[gitmaya-github]: https://github.com/ConnectAI-E/GitMaya
+[gitmaya-shield]: https://img.shields.io/github/stars/connectai-e/gitmaya?color=ffcb47&labelColor=black&style=flat-square&logo=github
 
 
 
