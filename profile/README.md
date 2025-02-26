@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img width="1280" alt="飞书 AI 对话" src="https://github.com/user-attachments/assets/f29acb1b-5d0f-4445-b5b1-5367cc1e1dc3" />
+<img width="1280" alt="飞书 AI 对话" src="https://github.com/user-attachments/assets/f5b27246-6d56-43a3-a4e1-9db8c69f698d" />
 
   
 <p align='center'>
