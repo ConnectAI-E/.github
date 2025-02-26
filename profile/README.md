@@ -5,6 +5,9 @@
 </a>
 <br/>
 <br/>
+
+<img width="1280" alt="飞书 AI 对话" src="https://github.com/user-attachments/assets/f29acb1b-5d0f-4445-b5b1-5367cc1e1dc3" />
+
   
 <p align='center'>
    www.connectai-e.com
